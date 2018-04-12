@@ -2,6 +2,8 @@
 
 > 会有这个计划的原因在于我发现自己越来越浮躁，很少有时间去看书籍来巩固自己的知识和精进自己的技术，因此在这里列了一个计划来督促自己看书。
 
+## 年度目标（2018.04-2019.04）
+- [ ] [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
 ### 2018-04
 
