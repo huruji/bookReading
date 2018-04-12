@@ -9,4 +9,4 @@
 
 - [ ] [深入浅出Node.js](https://book.douban.com/subject/25768396/)
 
-- [ ] [node与express开发](https://book.douban.com/subject/26301434/)
+- [X] [node与express开发](https://book.douban.com/subject/26301434/)
